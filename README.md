@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Medinam01
 - 👀 I’m interested in C# backend developper
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on c# topics
+- 💞️ I’m looking jobs remote
+- + 3 years experience in C# 
 - 📫 How to reach me miguelmedinamm1@outlook.com 
 
 <!---
